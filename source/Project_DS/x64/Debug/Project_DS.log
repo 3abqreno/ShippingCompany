@@ -1,0 +1,21 @@
+﻿  Cancel.cpp
+  Cargo.cpp
+  Company.cpp
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(204,157): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(212,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(287,157): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(294,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(368,157): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(375,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(1171,83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(1224,86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\github\ShippingCompany\source\Project_DS\Company.cpp(1288,95): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Event.cpp
+  UI.cpp
+  main.cpp
+  Promotion.cpp
+  Ready.cpp
+  Time.cpp
+  Truck.cpp
+  Generating Code...
+  Project_DS.vcxproj -> E:\github\ShippingCompany\source\x64\Debug\Project_DS.exe
