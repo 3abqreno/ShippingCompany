@@ -22,6 +22,7 @@ the program runs on the given you the statistics of the run for example cargo de
 
 ### Program modes
 the program had 3 modes that it can run on
+
 1- interactive mode and in this mode you press space or any key to increment the time
 
 2- step by step mode and in this mode time increments every second
